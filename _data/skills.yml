@@ -1,18 +1,18 @@
 - skill:
-  name: Python & Django
+  name: Machine Learning - Python, Tensorflow & Pytorch
+  level: 80%
+- skill:
+  name: Embedded - C/C++, Unix/Bash, ARM & Arduino
   level: 98%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: Electronics - SPICE, VHDL & PCB Design  
+  level: 90%
 - skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: Signal Processing - MATLAB
   level: 95%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: Design - SolidWorks, Sketch & Photoshop
+  level: 70%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Others - Java, Android & Mathematica
+  level: 65%
